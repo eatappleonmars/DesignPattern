@@ -1,4 +1,4 @@
-public class Main {
+public class StatePatternMain {
     public static void main(String[] args) {
 
         GumballMachine gumballMachine = new GumballMachine(5);
